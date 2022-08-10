@@ -1,1 +1,1 @@
-# algorithms
+# Algorithms implemented using Typescript
