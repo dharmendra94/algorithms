@@ -5,3 +5,7 @@
 * maxSumSubArray
 * smallestSubArrayWithGivenSum
 * longestSubStringLengthWithDistinctCharacters
+
+## Sorting
+
+* Quicksort (Divide and Conquer) (Recursion)
