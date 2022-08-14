@@ -20,3 +20,8 @@
 
 * Reorder log files by creating custom sort comparator function according to the requirement
 * Trapping rain water problem solved with two pointer technique
+
+
+# Unit tests
+
+## Run `npm test` to run all the unit tests setup
