@@ -19,3 +19,4 @@
 ## General arrays and strings problems
 
 * Reorder log files by creating custom sort comparator function according to the requirement
+* Trapping rain water problem solved with two pointer technique

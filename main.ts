@@ -1,17 +1,12 @@
 import { integerToRoman } from "./arrays_and_strings/integer_to_roman";
 import { maxArea } from "./arrays_and_strings/max_area";
 import { reOrderLogFiles } from "./arrays_and_strings/reorder_log_files";
+import { trappingRainWater } from "./arrays_and_strings/trapping_rain_water";
 
 // Driver code
 function main() {
-    // const arr = [1, 8, 6, 2, 5, 4, 8, 3, 7];
-    const result = reOrderLogFiles([
-        "a1 9 2 3 1",
-        "g1 act car",
-        "zo4 4 7",
-        "ab1 off key dog",
-        "a8 act zoo",
-    ]);
+    const arr = [4,2,0,3,2,5];
+    const result = trappingRainWater(arr);
     console.log(result);
 }
 
