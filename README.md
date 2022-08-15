@@ -16,11 +16,15 @@
 * Find kth largest element using QuickSelect algorithm
 
 
-## General arrays and strings problems
+## General arrays and strings
 
 * Reorder log files by creating custom sort comparator function according to the requirement
 * Trapping rain water problem solved with two pointer technique
 
+
+## Trees and graphs
+
+* Binary tree zig zag traversal
 
 # Unit tests
 
