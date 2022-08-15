@@ -25,6 +25,7 @@
 ## Trees and graphs
 
 * Binary tree zig zag traversal
+* Number of islands using Breadth first search technique
 
 # Unit tests
 

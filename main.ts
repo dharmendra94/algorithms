@@ -2,11 +2,17 @@ import { integerToRoman } from "./arrays_and_strings/integer_to_roman";
 import { maxArea } from "./arrays_and_strings/max_area";
 import { reOrderLogFiles } from "./arrays_and_strings/reorder_log_files";
 import { trappingRainWater } from "./arrays_and_strings/trapping_rain_water";
+import { numIslands } from "./trees_and_graphs/number_of_islands";
 
 // Driver code
 function main() {
-    const arr = [4,2,0,3,2,5];
-    const result = trappingRainWater(arr);
+    const arr = [
+        ["1","1","1","1","0"],
+        ["1","1","0","1","0"],
+        ["1","1","0","0","0"],
+        ["0","0","0","0","0"]
+      ];
+    const result = numIslands(arr);
     console.log(result);
 }
 
