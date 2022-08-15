@@ -20,6 +20,7 @@
 
 * Reorder log files by creating custom sort comparator function according to the requirement
 * Trapping rain water problem solved with two pointer technique
+* Find zero sum or magic triplets problem solved using two pointer technique
 
 
 ## Trees and graphs
