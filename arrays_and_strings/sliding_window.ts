@@ -1,10 +1,10 @@
 /**
- * Calculates the maximum sum from a sub array of the given size
+ * Calculates the maximum sum from a sub array of the given size (Fixed size sliding window)
  * @param arr numbers array
  * @param size size of the sub array
  * @returns sum of the sub array
  */
-export function maxSumSubArray(arr: number[], size: number) {
+export function maxSumSubArray(arr: number[], size: number): number {
     let currentRunningSum = 0, maxValue = Number.MIN_VALUE;
 
     for (let i = 0; i < arr.length; i++) {
