@@ -19,6 +19,9 @@ export function maxSumSubArray(arr: number[], size: number) {
     return maxValue;
 }
 
+/**
+ * Dynamically sized sliding window technique used to find a sub array of target sum
+ */
 export function smallestSubArrayWithGivenSum(arr: number[], targetSum: number) {
      if (!arr || !arr.length) return 0;
 
